@@ -22,6 +22,13 @@ The goal is to provide an automatic responsiveness prosthesis, either by vocal c
 <li>E-Nable design (we use Phoenix hand) <a href="http://enablingthefuture.org/phoenix-hand/" target="_blank">(link)</a></li>
 </ul>
 
+<h2>Demo</h2>
+
+<ul>
+  <li><a href="https://youtu.be/SSItTMWP8nY" target="_blank">Demo 1</a></li>
+  <li><a href="https://youtu.be/4NeUysGMUYo" target="_blank">Demo 2</a></li>
+</ul>
+
 <h2>Authors</h2>
 <ul>
 <li>Tiago Santos
