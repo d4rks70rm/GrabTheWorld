@@ -1,20 +1,27 @@
 # GrabTheWorld
 
-Intro
+<h2>Intro</h2>
 
 Grab The World is a POC (proof of concept) developed on Sunsset Hackaton 2019 based on the e-nable project. 
 The goal is to provide an automatic responsiveness prosthesis, either by vocal commands, or by detecting muscle movement. All the code is Open-Source
 
-Libraries
+<h2>Libraries</h2>
 
-Servo.h
-SoftwareSerial.h
+<ul>
+<li>Servo.h</li>
+<li>SoftwareSerial.h</li>
+</ul>
+<h2>Hardware</h2>
 
-Hardware
+<ul>
+  <li>Wemos D1 Mini <a href="https://wiki.wemos.cc/products:d1:d1_mini" target="_blank">(link)</a></li>
+<li>TowerPro SG90 Mini Servo <a href="http://www.towerpro.com.tw/product/sg90-7/" target="_blank">(link)</a></li>
+<li>Grove - Speech Recognizer <a href="https://www.seeedstudio.com/Grove-Speech-Recognizer.html" target="_blank">(link)</a></li>
+<li>Bitalino Electrodermal Activity (EDA) Sensor <a href="https://plux.info/kits/34-bitalino-revolution-freestyle-bt-810121005.html" target="_blank">(link)</a></li>
+<li>Electrode cable</li>
+<li>E-Nable design (we use Phoenix hand) <a href="http://enablingthefuture.org/phoenix-hand/" target="_blank">(link)</a></li>
+</ul>
 
-Wemos D1 Mini
-TowerPro SG90 Mini Servo
-Grove - Speech Recognizer
-Bitalino Electrodermal Activity (EDA) Sensor
-Electrode cable
-E-Nable design (we use Phoenix hand)
+<h2>Authors</h2>
+Tiago Santos -<a href="mailto:dark_storm@groundzero.com.pt">(E-mail)</a> - <a href="https://space.groundzero.com.pt" target="_blank">(Webpage)</a>
+Rangel Gil - <a href="mailto:">(E-mail)</a>
