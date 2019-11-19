@@ -39,6 +39,6 @@ All the code is Open-Source
   </ul>
 <li>Rangel Gil
   <ul>
-    <li><a href="mailto:">(E-mail)</a></li>
+    <li><a href="mailto:rangeledgil@hotmail.com">(E-mail)</a></li>
   </ul>
 </ul>
