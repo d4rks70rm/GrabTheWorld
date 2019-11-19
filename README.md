@@ -2,8 +2,9 @@
 
 <h2>Intro</h2>
 
-Grab The World is a POC (proof of concept) developed on Sunsset Hackaton 2019 based on the e-nable project. 
-The goal is to provide an automatic responsiveness prosthesis, either by vocal commands, or by detecting muscle movement. All the code is Open-Source
+Grab The World is a POC (proof of concept) developed on <a href="https://sunsethackathon.com">Sunset Hackaton 2019</a> based on the E-nable project. 
+The goal is to provide an automatic responsiveness prosthesis, either by vocal commands, or by detecting muscle movement.<br>
+All the code is Open-Source
 
 <h2>Libraries</h2>
 
