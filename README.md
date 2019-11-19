@@ -24,6 +24,13 @@ The goal is to provide an automatic responsiveness prosthesis, either by vocal c
 
 <h2>Authors</h2>
 <ul>
-<li>Tiago Santos -<a href="mailto:dark_storm@groundzero.com.pt">(E-mail)</a> - <a href="https://space.groundzero.com.pt" target="_blank">(Webpage)</a></li>
-  <li>Rangel Gil - <a href="mailto:">(E-mail)</a></li>
+<li>Tiago Santos
+  <ul>
+    <li><a href="mailto:dark_storm@groundzero.com.pt">(E-mail)</a></li>
+    <li><a href="https://space.groundzero.com.pt" target="_blank">(Webpage)</a></li>
+  </ul>
+<li>Rangel Gil
+  <ul>
+    <li><a href="mailto:">(E-mail)</a></li>
+  </ul>
 </ul>
